@@ -1,0 +1,48 @@
+
+#hori-wrapper{
+  overflow-x: scroll;
+  overflow-y: hidden;
+  width:320px;
+}
+
+#hori-container{
+  height:400px;
+  position: relative;
+  width: 800px;
+}
+
+
+
+#hori-container img{
+  position:absolute;
+}
+
+
+#img1{
+  top:0;
+  left:0;
+  width:200px;
+}
+
+
+#img2{
+  top:0;
+  left:405px;
+  width:200px;
+}
+
+
+
+#img3{
+  top:0;
+  left:205px;
+  width:200px;
+}
+
+
+
+#img4{
+  top:165px;
+  left:205px;
+  width:200px;
+}
